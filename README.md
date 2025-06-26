@@ -47,7 +47,7 @@ Model Performance
 
 
 How to Run:
-1.Clone the repository:git clone https://github.com/yourusername/marketing-ml.git
+1.Clone the repository:git clone https://github.com/Thevishal-kumar/Marketing-Attribute.git
                        cd marketing-ml
 
 2.Install dependencies:
